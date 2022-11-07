@@ -1,3 +1,0 @@
-D:\MDK\C++\Зд по функциям 1\Debug\Зд по функциям 1.exe
-D:\MDK\C++\Зд по функциям 1\Debug\Зд по функциям 1.pdb
-C:\Users\Stepa\Documents\Git\C++\C++\Зд по функциям 1\Debug\Зд по функциям 1.exe
