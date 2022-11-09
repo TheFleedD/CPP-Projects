@@ -1,0 +1,4 @@
+﻿  ЛР8.3_СитИ.cpp
+C:\Users\Stepa\Documents\Git\C++\ЛР8.3_СитИ\ЛР8.3_СитИ.cpp(16,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Stepa\Documents\Git\C++\ЛР8.3_СитИ\ЛР8.3_СитИ.cpp(17,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ЛР8.3_СитИ.vcxproj -> C:\Users\Stepa\Documents\Git\C++\ЛР8.3_СитИ\x64\Debug\ЛР8.3_СитИ.exe
